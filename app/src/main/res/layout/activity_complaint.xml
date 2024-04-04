@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".Complaint">
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="200dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+
+        android:layout_height="50dp"
+
+        android:textStyle="bold"
+        android:textSize="30dp"
+
+
+        android:textColor="@color/black"
+
+
+        android:text="COMPLAINTS" />
+
+    <EditText
+        android:id="@+id/complaint"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@drawable/type"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="ENTER COMPLAINT" />
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/send"
+        android:layout_width="200dp"
+        android:background="@drawable/button"
+        android:layout_marginTop="20dp"
+        android:textSize="18dp"
+        android:layout_gravity="center"
+
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="SEND" />
+
+    <ListView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:padding="15dp"
+
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#E4E4E4"
+    android:padding="20dp"
+
+
+
+    tools:context=".Custom_complaint">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="left"
+        tools:srcCompat="@drawable/combg"
+
+
+
+        android:src="@drawable/combg" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-80dp"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginRight="-80dp"
+
+
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="-80dp"
+
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="-80dp"
+
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="TextView" />
+</LinearLayout>

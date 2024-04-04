@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CYBERGUARD/CyberGuardAndrid/app/src/main/res/layout/activity_customchat.xml" value="0.21898148148148147" />
+        <entry key="..\:/CYBERGUARD/CyberGuardAndrid/app/src/main/res/layout/activity_recentchat.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/drawable-v24/received.xml" value="0.2435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/drawable-v24/send_mssg.xml" value="0.2435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/drawable/button.xml" value="0.2265" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/drawable/received.xml" value="0.228" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/drawable/send.xml" value="0.228" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/drawable/send_mssg.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/drawable/type.xml" value="0.2265" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_chat.xml" value="0.14002732240437157" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_comment.xml" value="0.2359375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_complaint.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_confirm_password.xml" value="0.20972222222222223" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_custom_complaint.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_custom_recent.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_customchat.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_customcommentlist.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_customimg.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_customlist.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_forgot.xml" value="0.20972222222222223" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_homepage.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_ip_setting.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_log.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_managepost.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_newchat.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_notification.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_recentchat.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_recentchatnew.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_reg.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_settings_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/layout/activity_uploadpost.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2555" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_buyllying/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2555" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_guard/app/src/main/res/layout/activity_customchat.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_guard/app/src/main/res/layout/activity_customimg.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_guard/app/src/main/res/layout/activity_customlist.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_guard/app/src/main/res/layout/activity_forgot.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_guard/app/src/main/res/layout/activity_homepage.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_guard/app/src/main/res/layout/activity_log.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Cyber_guard/app/src/main/res/layout/activity_main.xml" value="0.2222222222222222" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

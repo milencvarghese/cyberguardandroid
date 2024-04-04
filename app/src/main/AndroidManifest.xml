@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cyber_buyllying">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/cyber10"
+        android:label="CYBER GUARD"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/cyber10"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Cyber_buyllying"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".Custom_recent"
+            android:exported="false" />
+        <activity
+            android:name=".Custom_complaint"
+            android:exported="false" />
+        <activity
+            android:name=".Customcommentlist"
+            android:exported="false" />
+        <activity
+            android:name=".Confirm_password"
+            android:exported="false" />
+        <activity
+            android:name=".Forgot"
+            android:exported="false" />
+        <activity
+            android:name=".Recentchatnew"
+            android:exported="false" />
+        <activity
+            android:name=".Recentchat"
+            android:exported="false" />
+        <activity
+            android:name=".Customchat"
+            android:exported="false" />
+        <activity
+            android:name=".Customimg"
+            android:exported="false" />
+        <activity
+            android:name=".Comment"
+            android:exported="false" />
+        <activity
+            android:name=".Newchat"
+            android:exported="false" />
+        <activity
+            android:name=".Managepost"
+            android:exported="false" />
+        <activity
+            android:name=".Notification"
+            android:exported="false" />
+        <activity
+            android:name=".Uploadpost"
+            android:exported="false" />
+        <activity
+            android:name=".Complaint"
+            android:exported="false" />
+        <activity
+            android:name=".Settings_menu"
+            android:exported="false" />
+        <activity
+            android:name=".Homepage"
+            android:exported="false" />
+        <activity
+            android:name=".Log"
+            android:exported="false" />
+        <activity
+            android:name=".Reg"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IpSetting"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
